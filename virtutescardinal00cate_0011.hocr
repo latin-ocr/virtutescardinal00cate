@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./virtutescardinal00cate_0011.png"; bbox 0 0 2417 3259; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 739 1042 1613 1093">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 535 1006 1613 1118">
+     <span class='ocr_line' id='line_1_1' title="bbox 739 1042 1613 1093; baseline -0.01 -1.082"><span class='ocrx_word' id='word_1_1' title='bbox 739 1057 754 1090; x_wconf 70' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 790 1047 1017 1093; x_wconf 78' lang='lat' dir='ltr'>Tmco</span> <span class='ocrx_word' id='word_1_3' title='bbox 1053 1042 1444 1091; x_wconf 73' lang='lat' dir='ltr'>EMBLEMAT</span> <span class='ocrx_word' id='word_1_4' title='bbox 1588 1044 1613 1050; x_wconf 71' lang='lat'><em>-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 859 1131 1345 1186">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 859 1131 1345 1186">
+     <span class='ocr_line' id='line_1_2' title="bbox 859 1131 1345 1186; baseline -0.011 0"><span class='ocrx_word' id='word_1_5' title='bbox 859 1137 911 1186; x_wconf 82' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_6' title='bbox 913 1133 1138 1185; x_wconf 80' lang='lat' dir='ltr'>XPRE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1151 1134 1182 1185; x_wconf 82' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_8' title='bbox 1200 1131 1345 1182; x_wconf 84' lang='lat' dir='ltr'>SAE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 781 1520 1470 1680">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 781 1520 1470 1680">
+     <span class='ocr_line' id='line_1_3' title="bbox 781 1520 1470 1583; baseline -0.007 -2"><span class='ocrx_word' id='word_1_9' title='bbox 781 1523 909 1580; x_wconf 86' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_10' title='bbox 963 1525 1154 1578; x_wconf 78' lang='lat' dir='ltr'>KIN</span> <span class='ocrx_word' id='word_1_11' title='bbox 1160 1520 1198 1579; x_wconf 86' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_12' title='bbox 1207 1522 1258 1577; x_wconf 86' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_13' title='bbox 1268 1520 1470 1583; x_wconf 85' lang='lat' dir='ltr'>HOT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 930 1619 1303 1680; baseline -0.016 -16"><span class='ocrx_word' id='word_1_14' title='bbox 930 1619 1303 1680; x_wconf 3' lang='lat' dir='ltr'><strong>EQVITEMX</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 304 254 2035 2407">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 304 254 2035 2407">
+     <span class='ocr_line' id='line_1_5' title="bbox 304 254 2035 2407; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 304 254 2035 2407; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
